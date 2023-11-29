@@ -1,6 +1,6 @@
-<h1>Bus Transportation Management System<h1/>
+**Bus Transportation Management System**
   
-**Overview**
+Overview
 
 The Bus Transportation Management System is a console-based application developed in C#. It facilitates the booking and management of seats in buses, calculates revenue, and provides a user-friendly interface for interacting with the system.
 
